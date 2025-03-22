@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on EduQuest
+I'm currently working on Akarui
 
 
 # 💻 Tech Stack:
