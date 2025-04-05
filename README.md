@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Akarui<br>🌱 I’m currently learning React with Next and TypeScript
+🔭 I’m currently working on Akarui (proyek mangkrak)<br>🌱 I’m currently learning React with Next and TypeScript
 
 
 # 💻 Tech Stack:
