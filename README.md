@@ -1,5 +1,5 @@
 # 💫 About Me:
-B27 Computer Science<br>🔭 I’m currently working on Akarui and Research Methodology Project<br>🌱 I’m currently learning React with Next and TypeScript
+B27 Computer Science<br>🔭 I’m currently working on Akarui and Research Methodology Project<br>🌱 I’m currently learning React with Next and TypeScript (MERN Stack) 
 
 
 # 💻 Tech Stack:
