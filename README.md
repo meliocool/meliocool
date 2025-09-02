@@ -1,5 +1,5 @@
 # 💫 About Me:
-B27 Computer Science<br>🔭 I’m currently working on ByteSize<br>🌱 I’m currently learning GoLang
+B27 Computer Science<br>🔭 Currently working on ByteSize<br>🌱 Currently learning GoLang
 
 
 # 💻 Tech Stack:
