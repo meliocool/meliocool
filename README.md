@@ -1,4 +1,4 @@
-B27 Computer Science<br>🔭 Currently working on Arkive<br>🌱 Currently learning GoLang
+B27 Computer Science<br>🔭 Currently working on StoreNet<br>🌱 Currently learning C# and Angular
 
 ---
 
